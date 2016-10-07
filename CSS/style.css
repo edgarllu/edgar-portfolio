@@ -1,0 +1,81 @@
+
+
+.cointainer-fluid {
+	padding-left: 0;
+	padding-right: 0; 
+}
+
+.jumbotron{
+	height: 100vh;
+	background: url("../img/bcn.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.img-responsive{
+	height: 50px;
+}
+
+.navar-brand {
+	height: 70px;
+	padding: 10px;
+	margin-left: 30px;
+	
+}
+
+.rotate-logo {
+	transform: rotate(270deg);
+}
+
+.navbar.navbar-default.navbar-fixed-top{
+	margin-bottom: 0;
+	height: 70px;
+	border-bottom: 0;
+	background-color: transparent;
+	border-top: 50px;
+	margin-top: 30px;
+}
+
+ul.nav.navbar-nav.navbar-right {
+
+    font-size: 20px;
+
+}
+
+.nav.navbar-nav.navbar-right li {
+    padding-right: 60px;
+}
+
+.containerx{
+	margin-top: 300px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+.btn.btn-primary.btn-lg {
+	background: transparent;
+	border: 1px solid #fff; 
+	font-size: 2rem;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+
+.row {
+	margin-right: 40px;
+	margin-left: 30px;
+
+}
+
+.btn.btn-primary1 {
+	background: transparent;
+	border: 1px solid #000; 
+	font-size: 2rem;
+	color: #000;
+}
+
+.fa.fa-linkedin{
+	color: #3d75d0;
+}
